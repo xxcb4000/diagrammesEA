@@ -367,9 +367,6 @@
         <mxCell id="7glkiOMdkWzX_XrNl6Mu-8" value="habilité" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="890" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7glkiOMdkWzX_XrNl6Mu-9" value="Nbre heures" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1040" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="7glkiOMdkWzX_XrNl6Mu-13" value="type" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="799" y="1360" width="180" height="180" as="geometry" />
         </mxCell>
